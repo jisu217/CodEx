@@ -1,1 +1,1 @@
-Senior-Junior.2024
+SeniorJunior_2024
