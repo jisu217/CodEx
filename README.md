@@ -1,4 +1,4 @@
-SeniorJunior_2024
+# **SeniorJunior_2024**
 
 참여학생: 
-성　　과: 
+성　　과:
