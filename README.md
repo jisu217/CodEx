@@ -1,10 +1,10 @@
 # 2024년 선·후배 멘토링
 
----
-
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 
 > 2024 선·후배 멘토링 우수상
+
+---
 
 ## 팀원 소개
 
